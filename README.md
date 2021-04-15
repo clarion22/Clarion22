@@ -1,9 +1,7 @@
 ### Hi there 👋
 ## My GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clarion22&theme=nightowl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=clarion22&theme=nightowl&show_icons=false)](https://github.com/anuraghazra/github-readme-stats)
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarion22&theme=nightowl&hide=html,pug" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=clarion22&theme=nightowl" />
+
 ### Profile Views:<br>
 ![Visitor Count](https://profile-counter.glitch.me/clarion22/count.svg)
 
