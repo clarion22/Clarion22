@@ -11,6 +11,8 @@
 ![](https://img.shields.io/badge/Tools-Flask-informational?style=flat&logo=Flask&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-React-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Redux-informational?style=flat&logo=Redux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
 
 ## My GitHub Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=clarion22&theme=nightowl&show_icons=false)](https://github.com/anuraghazra/github-readme-stats)
