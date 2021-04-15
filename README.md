@@ -7,10 +7,13 @@
 ![Visitor Count](https://profile-counter.glitch.me/clarion22/count.svg)
 
 ##test 
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarion22&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
-
+<a>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=clarion22&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Olga's GitHub Stats" />
+</a>
 
 <!--
 **clarion22/Clarion22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
