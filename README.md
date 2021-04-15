@@ -1,4 +1,7 @@
 ### Hi there 👋
+##Languages & Tools 
+![](https://img.shields.io/badge/OS-Linux>-informational?style=flat&logo=#FCC624&logoColor=white&color=2bbc8a)
+
 ## My GitHub Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=clarion22&theme=nightowl&show_icons=false)](https://github.com/anuraghazra/github-readme-stats)
 
