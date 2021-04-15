@@ -7,7 +7,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/clarion22/count.svg)
 
 ##test 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarion228&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarion22&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=clarion22&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Olga's GitHub Stats" />
