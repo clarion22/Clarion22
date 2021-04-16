@@ -1,7 +1,7 @@
 ### Hi there, I'm Olga 👋
 - 🔭 I’m currently working on [EazyMeals](https://github.com/clarion22/EasyMeals)
 - 🌱 I’m currently learning TensorFlow.js
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I speak Russian and love photography!
 
 ## Languages & Tools 
 
