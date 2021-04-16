@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Olga 👋
+- 🔭 I’m currently working on [EazyMeals](https://github.com/clarion22/EasyMeals)
+- 🌱 I’m currently learning TensorFlow.js
+- ⚡ Fun fact: 
 
 ## Languages & Tools 
 
@@ -13,6 +16,19 @@
 ![](https://img.shields.io/badge/Tools-React-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Redux-informational?style=flat&logo=Redux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
+
+### Let's connect
+<a href="www.linkedin.com/in/olga-thompson-35937515a" >
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://clarion22.github.io/#" >
+<img src="https://img.shields.io/badge/My_Portfolio-FF5722?style=for-the-badge&logo=rss&logoColor=white" />
+</a>
+
+<a href="#" >
+<img src="https://img.shields.io/badge/Angel_List-9933CC?style=for-the-badge&logo=AngelList&logoColor=white" />
+</a>
 
 ## My GitHub Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=clarion22&theme=nightowl&show_icons=false)](https://github.com/anuraghazra/github-readme-stats)
