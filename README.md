@@ -18,7 +18,7 @@
 ![](https://img.shields.io/badge/Tools-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
 
 ### Let's connect
-<a href="www.linkedin.com/in/olga-thompson-35937515a" >
+<a href="https://linkedin.com/in/olga-thompson-35937515a" >
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
