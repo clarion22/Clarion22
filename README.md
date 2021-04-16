@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning TensorFlow.js
 - ⚡ Fun fact: I speak Russian and love photography!
 
-## Languages & Tools 
+### Languages & Tools 
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=2bbc8a)
