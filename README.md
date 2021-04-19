@@ -32,7 +32,7 @@
 </a>
 
 ## My GitHub Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=clarion22&theme=nightowl&show_icons=false)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=clarion22&theme=nightowl&show_icons=false&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Profile Views:<br>
 ![Visitor Count](https://profile-counter.glitch.me/clarion22/count.svg)
