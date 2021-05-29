@@ -1,6 +1,6 @@
 ### Hi there, I'm Olga 👋
 - 🔭 I’m currently working on [EasyMeals](https://github.com/clarion22/EasyMeals)
-- 🌱 I’m currently learning TensorFlow.js
+- 🌱 I’m currently learning React Native
 - ⚡ Fun fact: I speak Russian and love photography!
 
 ### Languages & Tools 
