@@ -2,6 +2,8 @@
 - 🔭 I’m currently working on [EasyMeals](https://github.com/clarion22/EasyMeals)
 - 🌱 I’m currently learning React Native
 - ⚡ Fun fact: I speak Russian and love photography!
+- 👯 I’m looking to collaborate on anything cool
+- 📫 How to reach me: olgajthompson@gmail.com
 
 ### Languages & Tools 
 
